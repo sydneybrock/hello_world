@@ -1,2 +1,4 @@
-# hello_world
-first repo for msci 599 2025-01-28
+## Sydney Brock
+## my first repo
+
+i'm gonna store these files here
